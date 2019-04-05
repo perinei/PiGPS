@@ -1,4 +1,4 @@
-// gps
+// gps is awsome
 var gpsd = require('node-gpsd');
 
 var params = {};
