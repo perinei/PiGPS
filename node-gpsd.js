@@ -1,4 +1,4 @@
-// gpsd
+// gps
 var gpsd = require('node-gpsd');
 
 var params = {};
